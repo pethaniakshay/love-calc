@@ -1,0 +1,9 @@
+body {
+    background-image: url(../img/love-calculator.jpg);
+    background-repeat: no-repeat;
+    background-size:cover;
+}
+
+.form-inline > * {
+    margin:20px 50px;
+}

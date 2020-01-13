@@ -1,0 +1,25 @@
+.sidebarContent{
+    min-height: 150px;
+    margin-bottom: 10px;
+    font-size: large;
+    text-align: center;
+    background-color: #5cb85c;
+}
+
+.mainbarContent{
+
+    min-height: 310px;
+    margin-bottom: 10px;
+    font-size: large;
+    text-align: center;
+    background-color: #5cb75c;
+
+}
+
+.responsiveUtility{
+    min-height: 100px;
+    text-align: center;
+    font-size: large;
+    background-color: #5cb85c;
+    margin-bottom: 10px;
+}
